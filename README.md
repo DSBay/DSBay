@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DSBay
-- 👀 I’m interested in Data Science and AI
-- 🌱 I’m currently learning Azure AI Engineering and completing my BSc in Data Science
+- 👀 I’m a graduate Data Scientist in the AI space.
+- 🌱 I’m currently learning about webapp development and agile management.
 - 📫 Feel free to connect on [linkedin](www.linkedin.com/in/sbay98)
 
 <!---
