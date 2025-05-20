@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DSBay
-- 👀 I’m a graduate Data Scientist in the AI space.
-- 🌱 I’m currently learning about webapp development and agile management.
+- 👀 I’m an AI Developer with a background in Data Science.
+- 🌱 I’m currently working with MCPs and AIOps.
 - 📫 Feel free to connect on [linkedin](www.linkedin.com/in/sbay98)
 
 <!---
