@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DSBay
 - 👀 I’m an AI Developer with a background in Data Science.
-- 🌱 I’m currently working with MCPs and AIOps.
+- 🌱 I’m currently working with MCPs and learning about AIOps.
 - 📫 Feel free to connect on [linkedin](www.linkedin.com/in/sbay98)
 
 <!---
